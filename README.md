@@ -13,4 +13,4 @@
 <sub><sup>(PC-9801)</sup></sub>
 
 このページからさらに多くの言語を入手:
-[ENGLISH](
+[ENGLISH](https://github.com/cirnoLover/No/blob/main/English.md)
