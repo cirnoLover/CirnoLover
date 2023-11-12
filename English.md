@@ -1,3 +1,5 @@
+ <span style='color: red;'>long</span> Heya.
+
 ## Hello
 <sub><sup>I am "C++Bat" and I'm a Touhou player and an arcade rhythm player, I also like maimai</sup></sub>
 
