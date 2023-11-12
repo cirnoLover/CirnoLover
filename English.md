@@ -12,4 +12,7 @@
 <sub><sup>my favorite Touhou Characters are:</sup></sub>
 Mima(PC-98)
 
-[go back to previous language](https://github.com/cirnoLover/No/blob/main/README.md) － JP
+ <details>
+<summary> <b>Languages</b> </summary>
+   
+> [Japanese](https://github.com/cirnoLover/CirnoLover)
