@@ -13,5 +13,8 @@
 
 <sub><sup>(PC-9801)</sup></sub>
 
-このページからさらに多くの言語を入手:
-[ENGLISH](https://github.com/cirnoLover/No/blob/main/English.md)
+<details>
+<summary> <b></b>言語</summary>
+   
+> [ENGLISH](https://github.com/cirnoLover/CirnoLover)
+
