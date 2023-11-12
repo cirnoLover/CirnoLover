@@ -9,7 +9,7 @@
 <img src="https://cdn.discordapp.com/emojis/940075136525139998.png" width=10% height=50%>
 
 <sub><sup>私の好きな東方キャラクターは:</sup></sub>
- MIMA<sub><sub>です</sub></sub> 
+ MIMA(魅魔)<sub><sub>です</sub></sub> 
 
 <sub><sup>(PC-9801)</sup></sub>
 
