@@ -16,5 +16,5 @@
 <details>
 <summary> <b></b>言語</summary>
    
-> [ENGLISH](https://github.com/cirnoLover/CirnoLover)
+> [ENGLISH](https://github.com/cirnoLover/CirnoLover/blob/main/English.md)
 
