@@ -15,6 +15,13 @@
 
 <details>
 <summary> <b></b>言語</summary>
-   
+ 
 > [ENGLISH](https://github.com/cirnoLover/CirnoLover/blob/main/English.md)
 
+<details>
+<summary> <b></b>ニックネーム</summary>
+
+
+「Emi」～ (友達が付けてくれたあだ名、大好きです）
+
+「Rui」 ～ （プロセカイのファンだった頃に友人が付けてくれたあだ名ですが、私は全然好きではありません）
